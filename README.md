@@ -16,7 +16,7 @@ A full-stack web application for managing projects, assigning tasks, and trackin
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Authentication** — Signup, Login, JWT-protected routes
 - **Role-Based Access** — Admin can create/delete projects & manage members; Members can view & update tasks
