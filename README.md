@@ -168,8 +168,10 @@ npm start
 1. In same project, add another service
 2. Set root directory to `/frontend`
 3. Add environment variable:
-   - `REACT_APP_API_URL` = `https://YOUR-BACKEND-URL.railway.app/api`
+   - `REACT_APP_API_URL` = `https://team-task-manager-1-re2v.onrender.com/`
 4. Deploy and get your frontend URL.
+   
+5. Frontend_Url = `https://team-task-manager-frontend-5rt5.onrender.com`
 
 ---
 
@@ -187,6 +189,3 @@ npm start
 
 ---
 
-## 📧 Contact
-
-Built as part of internship assessment.
